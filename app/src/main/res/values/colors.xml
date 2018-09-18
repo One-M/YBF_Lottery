@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F60D18</color>
+    <color name="colorPrimaryStart">#F6390D</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line">#F5F5F5</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_white">#f5f5f5</color>
+    <color name="canlendar_text_color">#323232</color>
+    <color name="sdfa">#fffffe</color>
+
+    <color name="num_1">#bfb800</color>
+    <color name="num_2">#2597ff</color>
+    <color name="num_3">#5c5c5c</color>
+    <color name="num_4">#ff7600</color>
+    <color name="num_5">#40d5d7</color>
+    <color name="num_6">#5337ff</color>
+    <color name="num_7">#bdbdbd</color>
+    <color name="num_8">#ff2700</color>
+    <color name="num_9">#780a00</color>
+    <color name="num_10">#0d9e13</color>
+
+    <color name="manage_text_color">#F63F3F</color>
+    <color name="history_kj_tab_color">#222222</color>
+    <color name="form_line_color">#DCDCDC</color>
+    <color name="txt_color666">#666666</color>
+    <color name="txt_color333">#333333</color>
+
+    <color name="txt_color999">#999999</color>
+    <color name="statistic_title_color">#cfe2f3</color>
+    <color name="statistic_percentage_color">#F07061</color>
+
+    <color name="basic_trend_line_color1">#4187CC</color>
+    <color name="basic_trend_line_color2">#77A066</color>
+    <color name="basic_trend_line_color3">#EC5526</color>
+    <color name="basic_trend_line_color4">#8E912C</color>
+    <color name="basic_trend_line_color5">#748997</color>
+
+    <color name="black">#FF000000</color>
+    <color name="tabhost">#0eae7e</color>
+    <color name="bjsc_home_kj_context_color">#FA0410</color>
+    <color name="bjsc_home_kj_stroke_color">#F71C26</color>
+
+    <color name="filter_uncheck_bg">#F4F4F4</color>
+    <color name="bjsc_ylfc_color">#9595C5</color>
+</resources>
